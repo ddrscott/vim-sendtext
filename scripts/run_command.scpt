@@ -1,3 +1,4 @@
+-- @see https://github.com/matschaffer/vim-islime2/blob/master/scripts/run_command.scpt
 on runInNextSession(theCommand)
   tell application "iTerm"
     tell current terminal

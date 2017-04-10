@@ -1,3 +1,4 @@
+-- @see https://github.com/matschaffer/vim-islime2/blob/master/scripts/run_command29.scpt
 on runInNextSession(theCommand)
   tell application "iTerm"
     tell current tab of current window
