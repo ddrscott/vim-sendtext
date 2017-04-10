@@ -25,8 +25,6 @@ writing the appropriate text then switching back (using `Cmd+[`).
 ## Recommended Mappings
 
 ```vim
-let g:sendtext_iterm_older_29=1
-
 " Send current line
 nnoremap <silent> <Leader>i<CR> :SendTextCurrentLine<CR>
 
